@@ -8,7 +8,11 @@ image_metadata:
   credit: ''
   image-alt: 'A photo of the profile of a man wearing sunglasses with trees in the
     background. '
+learning_resource_types: []
+parent_title: Instructors
+parent_type: CourseSection
 resourcetype: Image
 title: Taylor.jpg
+type: OCWImage
 uid: 9d293603-8329-f7af-0db5-1ff9814885a5
 ---

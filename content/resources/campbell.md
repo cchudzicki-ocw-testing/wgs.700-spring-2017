@@ -7,7 +7,11 @@ image_metadata:
   caption: A photograph of Prof. Mary Baine Campbell.
   credit: ''
   image-alt: 'A headshot of a woman wearing a white shirt with short grey hair. '
+learning_resource_types: []
+parent_title: Instructors
+parent_type: CourseSection
 resourcetype: Image
 title: Campbell.jpg
+type: OCWImage
 uid: b449abe8-e60b-be7e-6a19-d2a21ceba867
 ---

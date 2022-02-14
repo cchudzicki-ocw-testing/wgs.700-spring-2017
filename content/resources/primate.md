@@ -7,7 +7,11 @@ image_metadata:
   caption: A mother gorilla and her baby.
   credit: 'Image by The Climate Coalition(UK)on Flickr. Cc: BY-NC-SA.'
   image-alt: 'A photograph of a female gorilla, holding her baby in her arms. '
+learning_resource_types: []
+parent_title: Project 1
+parent_type: CourseSection
 resourcetype: Image
 title: primate.jpg
+type: OCWImage
 uid: 82239cb3-c783-88a2-93e7-8260e5d40c51
 ---

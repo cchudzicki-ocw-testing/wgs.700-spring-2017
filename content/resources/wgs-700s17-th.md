@@ -10,7 +10,9 @@ image_metadata:
     \ on flickr. License CC: BY-NC-SA.)"
   credit: ''
   image-alt: 'Colorful neurons are tangled around each other. '
+learning_resource_types: []
 resourcetype: Image
 title: wgs-700s17-th.jpg
+type: OCWImage
 uid: 5e5369c5-6112-9f28-e906-70c03b404f93
 ---

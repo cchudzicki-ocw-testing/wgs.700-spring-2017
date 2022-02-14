@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: f446a4d9-569b-122f-4184-00c4261614f0
 title: Notes on Assignments
+type: CourseSection
 uid: 9ebe280e-734f-e8a6-eaef-c69cdc49abb0
 ---
 
