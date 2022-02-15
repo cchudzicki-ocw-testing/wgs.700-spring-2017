@@ -5,7 +5,6 @@ parent_title: Project 3
 parent_type: CourseSection
 parent_uid: bd61e886-b98d-09e5-9fdd-cf99177895ce
 title: References
-type: CourseSection
 uid: ec2a84f1-d55c-0dd6-d7a9-d5436a667363
 ---
 

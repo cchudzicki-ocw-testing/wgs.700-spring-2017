@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Project 3
-type: CourseSection
 uid: bd61e886-b98d-09e5-9fdd-cf99177895ce
 ---
 

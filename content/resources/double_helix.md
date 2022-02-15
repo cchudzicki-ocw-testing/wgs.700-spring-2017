@@ -12,6 +12,5 @@ parent_title: Project 3
 parent_type: CourseSection
 resourcetype: Image
 title: double_helix.jpg
-type: OCWImage
 uid: 12fb87b5-5ee5-e8f9-7b71-5fc0f872ff7c
 ---

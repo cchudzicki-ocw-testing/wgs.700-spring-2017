@@ -12,6 +12,5 @@ parent_title: Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: Campbell.jpg
-type: OCWImage
 uid: b449abe8-e60b-be7e-6a19-d2a21ceba867
 ---

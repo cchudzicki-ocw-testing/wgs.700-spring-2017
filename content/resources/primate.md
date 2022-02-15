@@ -12,6 +12,5 @@ parent_title: Project 1
 parent_type: CourseSection
 resourcetype: Image
 title: primate.jpg
-type: OCWImage
 uid: 82239cb3-c783-88a2-93e7-8260e5d40c51
 ---
