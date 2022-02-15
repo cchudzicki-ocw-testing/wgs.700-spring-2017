@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Image by Caroline Davis2010 on Flickr. CC: BY'
   image-alt: 'Two rainbow curved lines represent the double helix of DNA. '
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Project 3
 parent_type: CourseSection
 resourcetype: Image

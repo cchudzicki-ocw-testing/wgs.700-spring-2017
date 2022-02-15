@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: 'A headshot of a woman wearing a white shirt with short grey hair. '
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Instructors
 parent_type: CourseSection
 resourcetype: Image

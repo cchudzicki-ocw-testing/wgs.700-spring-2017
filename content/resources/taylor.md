@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'A photo of the profile of a man wearing sunglasses with trees in the
     background. '
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Instructors
 parent_type: CourseSection
 resourcetype: Image
