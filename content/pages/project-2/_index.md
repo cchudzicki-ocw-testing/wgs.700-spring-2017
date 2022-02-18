@@ -10,7 +10,7 @@ uid: 61a72732-2135-95b0-b56f-badd63e12490
 
 ### Classes 5–7
 
-![A cardboard sign held up during a protest says the seas are rising and so are the moms.]({{< resource_file c31ca6ab-e83b-3a93-5da6-c1108153171b >}})
+{{< resource c31ca6ab-e83b-3a93-5da6-c1108153171b >}}
 
 (Image by [Alan Greig](https://www.flickr.com/photos/35130853@N05/15316525432/in/album-72157647849872066/) on Flickr. CC NC-SA-BY.)
 

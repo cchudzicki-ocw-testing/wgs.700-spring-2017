@@ -16,6 +16,6 @@ This project is an opportunity for you to build on the first three projects and 
 
 Your written product, the plan for practice proper, should have two levels: 1. A plan for your own ongoing learning so as to be able to trouble the boundaries of knowledge production in the academy and sciences. More specifically, so as to be able to interpret sciences in contexts, drawing on and adding to the contributions of feminist, anti-racist, and other critical analysts and activists; 2. Building on the first, personal level, what is your plan for practice to develop your ability to foster the development of others in this same vein.
 
-![A photo of an open laptop and notebook with a pen and a pair of glasses resting on them.]({{< resource_file 58645480-3c1d-83a7-9d37-392435fb95b8 >}})  
+{{< resource 58645480-3c1d-83a7-9d37-392435fb95b8 >}}  
 
 (Image by Trent Erwin on [Unsplash](https://unsplash.com/photos/UgA3Xvi3SkA).)
