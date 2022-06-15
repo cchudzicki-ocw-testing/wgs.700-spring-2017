@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section provides definitions and notes on each of the assignments. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
