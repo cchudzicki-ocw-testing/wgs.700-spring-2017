@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains a list of references used in Project 1. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

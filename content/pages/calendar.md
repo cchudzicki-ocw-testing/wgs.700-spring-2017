@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains an outline of the topics and schedule of the course. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

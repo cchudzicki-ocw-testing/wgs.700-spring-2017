@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information about exercises students should do
+  to prepare for class. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

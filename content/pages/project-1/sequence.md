@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a list of readings and assignments for Project
+  1. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

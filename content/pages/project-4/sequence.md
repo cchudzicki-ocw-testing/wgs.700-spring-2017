@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains information about what students did in each class
+  session. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

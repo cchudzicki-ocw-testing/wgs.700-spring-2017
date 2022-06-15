@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains a list of citations used during Project 3. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

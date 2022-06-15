@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This details the requirements for the second project in the course. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

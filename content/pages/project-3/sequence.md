@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides details on what the students did in the classes
+  concerning Project 3. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains details about the course including an overview,
+  course requirements, assignments, class routines, and key texts. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
